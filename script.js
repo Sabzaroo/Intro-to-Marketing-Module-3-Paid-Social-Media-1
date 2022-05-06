@@ -4,7 +4,7 @@ let allQuestions = [{
     correct_text: "😁Correct!",
     incorrect_text: "❌Incorrect! The correct answer is: Job Title",
     choices: {
-        all_choices: ["Email Adress", "Job Title", "First Name", "Competitor pages they follow"],
+        all_choices: ["Email address", "Job title", "First name", "Competitor pages they follow"],
         correct: "Job Title"
     }
 }];
